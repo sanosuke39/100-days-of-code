@@ -1,19 +1,21 @@
 # 100 Days Of Code - 学習ログ
 
-### 0日目: 2016年2月28日
+### 2022-06-12
 
-**今日の進捗**: 計算機アプリのCSSを修正して、canvasの機能に取り掛かった。
+**今日の進捗**:
 
-**思ったこと** CSSにはとても苦労したけど、少しずつ上達してきてる気がする。Canvasはまだ始めたばっかりだけど、基本的な機能はいくつか理解できてきた。
+今日から100 Days Of Codeを始めた。
+今まで放置していたEtch A Sketchのフロントエンド実装を始めた。
+Storybookを導入してフロントエンドのヘッダー部分を設計。
+Storybookの使い方を少し覚える１時間になった 。
 
-**リンク** [計算機アプリ](http://www.example.com)
+I started #100daysofcode from today.
+I have started the front-end implementation of Etch A Sketch, which has been neglected until now.
+First, I introduced the storybook and designed a header on the front-end.
+I cloud to learn about the storybook while an hour.
 
-### 1日目: 2016年6月27日（月）
+**思ったこと** 
 
-**今日の進捗**: FreeCodeCampの演習をたくさん進めた。
+Storybookはデザインをやればコードを自動生成してくれると勝手に思っていたがそんなことはなかった。
+first, I thought that the storybook can be generated to component code, but couldn't.
 
-**思ったこと** プログラミングを始めたばかりだから、何時間もかけてやっとアルゴリズムのチャレンジが解けるとめちゃくちゃ気持ちいい！
-
-**リンク**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
