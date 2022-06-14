@@ -64,3 +64,21 @@ not todo
 
 * ui design
 * component architecture
+
+## 2022/06/14
+
+### 今日の進捗
+created part of the login request to the API server
+
+APIサーバーへのログイン要求の一部を作成しました
+
+### 思ったこと
+効率的な書き方を考えることに時間を使ってしまって、先に進みませんでした。
+雑でも実装をすることを優先すべきだと思った。
+
+I spent a lot og time thinking about how to write efficiently, so I couldn't move on.
+I thought that it should be prioritized to implement even if it is rough.
+
+[//]: # (## 日付)
+[//]: # (### 今日の進捗)
+[//]: # (### 思ったこと)
