@@ -79,6 +79,29 @@ APIサーバーへのログイン要求の一部を作成しました
 I spent a lot og time thinking about how to write efficiently, so I couldn't move on.
 I thought that it should be prioritized to implement even if it is rough.
 
+## 2022/06/15
+### 今日の進捗
+frontend: implement login module.
+backend: change language from scala akka http to ts nestjs.
+
+### 思ったこと
+
+今日は筆が進んでいい感じだった。
+
+機能だけに集中して取り組むことができた。
+
+その結果ログイン機構の実装を完了することができた。
+
+NestJS はTSなのでフロントエンド・バックエンド分ける必要がなく、単独リポジトリなので管理が楽になった。
+
+It was a good feeling that the brush was advanced today.
+
+I was able to concentrate on the functions.
+
+As a result, we were able to complete the implementation of the login mechanism.
+
+Since NestJS is a TS, there is no need to separate the front end and back end, and since it is a single repository, it is easier to manage.
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
