@@ -102,6 +102,22 @@ As a result, we were able to complete the implementation of the login mechanism.
 
 Since NestJS is a TS, there is no need to separate the front end and back end, and since it is a single repository, it is easier to manage.
 
+## 2022/06/16
+### 今日の進捗
+day5:
+when the user success logs in, move to the board page.
+
+if a user is not logged in yet, redirect to the login page.
+
+### 思ったこと
+私は疲れていましたが、コードを書くことができました。
+
+そして、私のコードの書き方が向上したと感じています。
+
+I was tired but could write to code.
+
+and I feel that my writing technic of code improve.
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
