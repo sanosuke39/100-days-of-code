@@ -117,6 +117,20 @@ if a user is not logged in yet, redirect to the login page.
 I was tired but could write to code.
 
 and I feel that my writing technic of code improve.
+## 2022/06/17
+
+### 今日の進捗
+day6:
+* backend: it gets info from the database with Prisma ORM.
+* frontend:  create loader components.
+### 思ったこと
+コードの書き方を思い出し始めています。
+また、コードの記述に集中できます。
+それは良い点です。
+
+I am beginning to remember how to write code.
+And also, I can focus to write code.
+it's a good point.
 
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
