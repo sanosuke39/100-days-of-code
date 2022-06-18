@@ -131,6 +131,23 @@ day6:
 I am beginning to remember how to write code.
 And also, I can focus to write code.
 it's a good point.
+## 2022/06/18
+
+### 今日の進捗
+day7:
+* backend: created get a board list from endpoint.
+* frontend:  created a component of the board list and board edit.
+
+### 思ったこと
+私は1日目よりも速くコードを書くようになりました。
+また、やりたいことが増えています。
+たとえば、パスワード管理やフロントエンドUIなどです。
+しかし、自分の時間は限られているので、学ぶ優先順位を考える必要があります。
+
+I became to write code more than fast compared to day 1.
+And Also, something you want to do is increasing.
+for example, password management, and frontend UI.
+But my time is limited. so I should get one's priorities right.
 
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
