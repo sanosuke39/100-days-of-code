@@ -149,6 +149,19 @@ And Also, something you want to do is increasing.
 for example, password management, and frontend UI.
 But my time is limited. so I should get one's priorities right.
 
+## 2022/06/19
+### 今日の進捗
+day8: apply formatter in all.
+* frontend: edit EditBoard.tsx .
+
+### 思ったこと
+Canvas要素を学びました。
+大変でした。 最近のコーディングと学習のバランスは良好です。
+
+I learned the Canvas element.
+It was difficult.
+The balance between coding and learning these days is good.
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
