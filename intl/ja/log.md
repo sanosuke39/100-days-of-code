@@ -162,6 +162,23 @@ I learned the Canvas element.
 It was difficult.
 The balance between coding and learning these days is good.
 
+## 2022/06/20
+### 今日の進捗
+
+day9: made drawing possible on board and store content.
+* frontend: made drawing possible on board.
+* backend: store content, get content.
+
+### 思ったこと
+
+キャンバスのコーディングは非常に教育的でした
+画像の保存と描画は、私の未知のタイプのコーディングでした。
+仕事を終えてコーディングしようとしたので疲れました。
+
+coding of canvas was very educational.
+storing images and drawing was my unknown type of coding.
+I was tired because I try to code after I finished work.
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
