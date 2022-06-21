@@ -179,6 +179,20 @@ coding of canvas was very educational.
 storing images and drawing was my unknown type of coding.
 I was tired because I try to code after I finished work.
 
+## 2022/06/21
+### 今日の進捗
+
+day10: made login logic more practical.
+* frontend: none.
+* backend: became to made hashed password store to the users table. WIP, implement session based auth.
+
+### 思ったこと
+疲れましたが、集中できました。
+今日は2時間くらいやりました。
+
+tired, but I could concentrate.
+Today, I did it for about 2 hours.
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
