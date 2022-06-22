@@ -193,6 +193,17 @@ day10: made login logic more practical.
 tired, but I could concentrate.
 Today, I did it for about 2 hours.
 
+## 2022/06/22
+### 今日の進捗
+day11: made login logic more practical.
+* frontend: none.
+* backend: implement session based auth.
+
+### 思ったこと
+参考書に書かれている言葉を見落としていたので、しっかり読んでおくべきだと思いました。
+
+I thought that I should read tight the reference manual because I overlooked the words in them.
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
