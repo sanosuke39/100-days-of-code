@@ -204,6 +204,17 @@ day11: made login logic more practical.
 
 I thought that I should read tight the reference manual because I overlooked the words in them.
 
+## 2022/06/24
+### 今日の進捗
+day12: refactor, and session auth and board function.
+* frontend: be able to session auth and create board.
+* backend: create board.
+### 思ったこと
+リファクタ楽しかった。さほど学びはなかった。
+
+I enjoyed refactor.
+I could not so much get new knowledge.
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
