@@ -204,7 +204,7 @@ day11: made login logic more practical.
 
 I thought that I should read tight the reference manual because I overlooked the words in them.
 
-## 2022/06/24
+## 2022/06/23
 ### 今日の進捗
 day12: refactor, and session auth and board function.
 * frontend: be able to session auth and create board.
@@ -214,6 +214,23 @@ day12: refactor, and session auth and board function.
 
 I enjoyed refactor.
 I could not so much get new knowledge.
+
+## 2022/06/24
+### 今日の進捗
+day13: fix ui.
+* frontend: fix ui with material-ui.
+* backend: none.
+
+### 思ったこと
+午後から眠かったけど、すべてのタスクを終わらせた。よくやった！
+フロントをmuiで修正した。
+フロントエンドでもっとMaterial-UIを使うべきだと思いました。
+
+I've been sleepy since the afternoon but I completed all tasks. I am great!
+I fixed the UI of the front end with Material-UI.
+I thought that  I should use more Material-UI on the front end.
+
+
 
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
