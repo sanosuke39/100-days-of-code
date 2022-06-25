@@ -231,6 +231,17 @@ I fixed the UI of the front end with Material-UI.
 I thought that  I should use more Material-UI on the front end.
 
 
+## 2022/06/25
+### 今日の進捗
+
+day14: fix ui.
+* frontend: add profile icon on header.
+* backend: none.
+
+### 思ったこと
+UIの修正は好きだけど自分としてはキャンバス周りの理解を深めたり新しい機能を実装する必要があるのではと考える。
+
+I like fixing UI but I should try to learn to canvas and implement new features.
 
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
