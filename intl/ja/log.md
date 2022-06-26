@@ -243,6 +243,18 @@ UIの修正は好きだけど自分としてはキャンバス周りの理解を
 
 I like fixing UI but I should try to learn to canvas and implement new features.
 
+## 2022/06/26
+### 今日の進捗
+day15: fix board.
+* frontend: try fixing board component.
+* backend: none.
+### 思ったこと
+キャンバスの問題解決できなかった
+悲しい。。。
+
+could not resolve the problem of a canvas.
+I am sad
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
