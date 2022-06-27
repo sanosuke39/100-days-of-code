@@ -255,6 +255,28 @@ day15: fix board.
 could not resolve the problem of a canvas.
 I am sad
 
+## 2022/06/27
+### 今日の進捗
+day16: try jwt auth.
+* frontend: try jwt auth.
+* backend: none.
+
+### 思ったこと
+認証周りについて知見が溜まった。
+
+独自実装してもいいけど、手っ取り早く信頼性の高い認証基盤作りたいならAuth0, firebase Authあたり使ったほうがいいよ的な感じだった。
+
+調べた資料
+
+なんか英語書くのめんどくさくなってきた。1文だけかこう。
+
+I am getting tired that writing a log in English. 
+
+I try to write in only 1 sentence. 
+
+* https://qiita.com/Hiro-mi/items/18e00060a0f8654f49d6
+* https://coders-shelf.com/react-auth-problem/
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
