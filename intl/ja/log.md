@@ -277,6 +277,27 @@ I try to write in only 1 sentence.
 * https://qiita.com/Hiro-mi/items/18e00060a0f8654f49d6
 * https://coders-shelf.com/react-auth-problem/
 
+## 2022/06/28
+### 今日の進捗
+day17: fixed jwt auth.
+* frontend: fixed jwt auth and optimized import module and removed session auth.
+* backend: none.
+
+### 思ったこと
+
+モジュール周りに関して知見が溜まった。
+
+JWTの実装時にどのように、各クラスが関連しているかが理解できた。
+
+I could understand better around modules.
+
+I could understand how each class is related when implementing JWT.
+
+調べた資料
+
+* https://qiita.com/ekzemplaro/items/3644e60b55a38c9bdd93
+* https://zenn.dev/mikakane/articles/nestjs-module
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
