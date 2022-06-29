@@ -297,6 +297,27 @@ I could understand how each class is related when implementing JWT.
 
 * https://qiita.com/ekzemplaro/items/3644e60b55a38c9bdd93
 * https://zenn.dev/mikakane/articles/nestjs-module
+## 2022/06/29
+### 今日の進捗
+day18: fixing jwt auth.
+* frontend: fixing jwt auth.
+* backend: none.
+
+### 思ったこと
+
+調べていったらJWTをCookieで保管する方法でもセキュリティリスクあるみたいなことが書いてあって、これ素直にAuth0使ったほうがいいのではみたいな感じになった。
+
+改めて自分の伸ばしたい領域を整理する必要が出てきた。
+
+when I searched how to use JWT in SPA, I find that there is a security risk.
+
+I thought that auth0 is better than implementation myself.
+
+I need to think that What I should learn in this challenge again.
+
+調べた資料
+* https://tech.hicustomer.jp/posts/modern-authentication-in-hosting-spa/
+* https://zenn.dev/yoneapp/scraps/a2a5f643cb845a
 
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
