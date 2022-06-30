@@ -319,6 +319,22 @@ I need to think that What I should learn in this challenge again.
 * https://tech.hicustomer.jp/posts/modern-authentication-in-hosting-spa/
 * https://zenn.dev/yoneapp/scraps/a2a5f643cb845a
 
+## 2022/06/30
+### 今日の進捗
+
+day19: implement login module with auth0.
+* frontend: implement login module with auth0. environment variable call to env.
+* backend: none.
+
+### 思ったこと
+auth0を利用してログイン機能を実装した。
+
+すごく簡単だった。
+
+I implemented a login module with auth0.
+
+it was so easy.
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
