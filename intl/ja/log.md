@@ -335,6 +335,17 @@ I implemented a login module with auth0.
 
 it was so easy.
 
+## 2022/07/01
+### 今日の進捗
+day20: implement get board list with auth0.
+* frontend: get board list with auth0
+* backend: get board list with auth0
+
+### 思ったこと
+バックエンドの認証がだいぶきつかった。
+
+I had felt hard on how to use the auth0 library in the backend.
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
