@@ -346,6 +346,17 @@ day20: implement get board list with auth0.
 
 I had felt hard on how to use the auth0 library in the backend.
 
+## 2022/07/02
+### 今日の進捗
+day21: implement get board list with auth0.
+* frontend: get board list with auth0
+* backend: get board list with auth0
+
+### 思ったこと
+疲れてたけど、Auth0について1歩前進したので良しとしよう。
+
+I was tired, but I'm glad I have taken a step forward with auth0.
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
