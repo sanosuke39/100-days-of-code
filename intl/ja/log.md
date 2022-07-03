@@ -357,6 +357,16 @@ day21: implement get board list with auth0.
 
 I was tired, but I'm glad I have taken a step forward with auth0.
 
+## 2022/07/03
+### 今日の進捗
+day22: change authenticate tool from auth0 to firebase.
+
+### 思ったこと
+データ構造も単純なのでfirebase を使ってバックエンドを構築することにした。
+
+I changed a backend-tools from nestjs + auth0 to firebase.
+it doesn't need to create the backend, because the data structure of this web app is simple.
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
