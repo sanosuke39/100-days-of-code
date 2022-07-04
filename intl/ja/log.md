@@ -367,6 +367,13 @@ day22: change authenticate tool from auth0 to firebase.
 I changed a backend-tools from nestjs + auth0 to firebase.
 it doesn't need to create the backend, because the data structure of this web app is simple.
 
+## 2022/07/04
+### 今日の進捗
+day23: implement create board module.
+
+### 思ったこと
+眠たい。疲れた。
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
