@@ -374,6 +374,19 @@ day23: implement create board module.
 ### 思ったこと
 眠たい。疲れた。
 
+## 2022/07/06
+### 今日の進捗
+day24: add signup.
+
+### 思ったこと
+
+何故かfirestoreが使えない。よくわからん。
+サンプル用のコードで検証したけどそちらでは使えるから謎。
+
+I am not knowing the reason that cannot use Firestore in React.
+I inspected it to use a sample code.
+I am confused because In sample code can use Firestore.
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
