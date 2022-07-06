@@ -387,6 +387,18 @@ I am not knowing the reason that cannot use Firestore in React.
 I inspected it to use a sample code.
 I am confused because In sample code can use Firestore.
 
+## 2022/07/06
+### 今日の進捗
+day25: refactor auth.
+
+### 思ったこと
+Firestoreのバグわからなくて、解決しない。。。
+アプリの作成が進まない。別のアプリで違いを見て解決しようと思っている。
+
+I cannot resolve it because I don't know the cause of the bug in Firestore.
+Now, Creating App cannot move forward from its bug.
+I am thinking that creating another app and trying to resolve the problem.
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
