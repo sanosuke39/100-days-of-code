@@ -399,6 +399,21 @@ I cannot resolve it because I don't know the cause of the bug in Firestore.
 Now, Creating App cannot move forward from its bug.
 I am thinking that creating another app and trying to resolve the problem.
 
+## 2022/07/07
+### 今日の進捗
+day26: fixed bug and can use firebase.
+
+### 思ったこと
+Recoil削除したら動いた。やっと別のタスクに取り掛かれる。。。
+
+具体的な原因がわからないがそれはまた後ほど調べよう。
+
+it became that can run result of removing Recoil.
+
+at last, I can get started on another task.
+
+But,  I better search for it because I don't know the cause of specific.
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
