@@ -414,6 +414,15 @@ at last, I can get started on another task.
 
 But,  I better search for it because I don't know the cause of specific.
 
+## 2022/07/08
+### 今日の進捗
+day27: boards store in firestore.
+
+### 思ったこと
+サブコレクション使ってうまいこと保存できた！
+
+It was able to store in Firestore with a sub-collection!
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
