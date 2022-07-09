@@ -423,6 +423,19 @@ day27: boards store in firestore.
 
 It was able to store in Firestore with a sub-collection!
 
+## 2022/07/09
+### 今日の進捗
+day28: create firestore converter and refactor.
+
+### 思ったこと
+フロントを書くのが楽しくなってきた一方目標を見失いがち。
+
+目標の再設定が必要。
+
+I am enjoying writing code, but I cannot work on this challenge with a goal.
+
+I need to reset a goal.
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
