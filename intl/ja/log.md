@@ -436,6 +436,25 @@ I am enjoying writing code, but I cannot work on this challenge with a goal.
 
 I need to reset a goal.
 
+## 2022/07/10
+### 今日の進捗
+day29: fix Header.tsx.
+
+### 思ったこと
+なんかやることがつまらんくなっているから、プロジェクト立てた。
+
+ここからタスクとってこう。
+
+I created a project in the repository.
+
+I will get a task from its project's task list.
+
+
+https://github.com/sanosuke39/etch-a-sketch/projects/1
+
+
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
+
