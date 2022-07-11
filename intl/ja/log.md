@@ -452,7 +452,16 @@ I will get a task from its project's task list.
 
 https://github.com/sanosuke39/etch-a-sketch/projects/1
 
+## 2022/07/11
+### 今日の進捗
+day30: could draw with keyboard.
 
+### 思ったこと
+タスクとった。なかなか実験的なことができた。
+
+図らずも点線とかできて思わぬ収穫だった。
+
+ただ線を一直線に書く必要がある。
 
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
