@@ -474,6 +474,12 @@ Stripeの登録なんかもしたので課金システムの構築やってい�
 
 そう言いながら学ぶものを迷っている。もうちょっとReactに関して深入りしたほうがスキルがつくのでは？と思ったり。。。
 
+the application became able to paint with a button.
+
+I registered on Stripe, so I will try to implement a payment system.
+
+I said that but I', wondering. Should I learn more about React?
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
