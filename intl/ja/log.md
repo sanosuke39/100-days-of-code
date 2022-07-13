@@ -480,6 +480,14 @@ I registered on Stripe, so I will try to implement a payment system.
 
 I said that but I', wondering. Should I learn more about React?
 
+## 2022/07/13
+### 今日の進捗
+day32: install stripe js.
+### 思ったこと
+stripeをマスターできると課金とかいい感じに実装できて給与上がるかも。
+
+If I master Stripe, my pay is maybe up.
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
