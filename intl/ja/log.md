@@ -488,6 +488,15 @@ stripeをマスターできると課金とかいい感じに実装できて給�
 
 If I master Stripe, my pay is maybe up.
 
+## 2022/07/14
+### 今日の進捗
+day33: create functions because it is implement stripe payment.
+
+### 思ったこと
+いい感じでfirebase活用している。
+
+firebase many modules are frequently used by this application.
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
