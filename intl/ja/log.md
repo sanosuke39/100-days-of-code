@@ -497,6 +497,15 @@ day33: create functions because it is implement stripe payment.
 
 firebase many modules are frequently used by this application.
 
+## 2022/07/15
+### 今日の進捗
+day34: became to use stripe elements #3.
+
+### 思ったこと
+functions に苦戦した. stripeの理解に関しては日々成長している
+
+functions were hard. I am getting to grow in understanding of Stripe.
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
