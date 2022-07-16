@@ -506,6 +506,28 @@ functions に苦戦した. stripeの理解に関しては日々成長してい�
 
 functions were hard. I am getting to grow in understanding of Stripe.
 
+## 2022/07/16
+### 今日の進捗
+day35: became able to check out a board and after check out, redirect to thanks page.
+
+### 思ったこと
+仮設立てて結構あたったしいい感じで進んできた。
+
+React力が上がっている。
+
+関数の途中だとレンダリングが機能しない？
+
+Firebaseのユーザーのカスタムプロファイルに関するやつ。
+https://bigcodenerd.org/create-user-profile-firestore-authentication/
+
+my  hypothesis was correct. sounds good.
+
+I improved implement of React.
+
+when in the middle of a function, can the variable of context be not refreshed?
+
+it is the document of Firebase custom profile
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
