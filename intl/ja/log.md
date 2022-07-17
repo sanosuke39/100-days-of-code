@@ -528,6 +528,23 @@ when in the middle of a function, can the variable of context be not refreshed?
 
 it is the document of Firebase custom profile
 
+## 2022/07/17
+### 今日の進捗
+day36
+* feature: became able to find a checkout customer.
+
+### 思ったこと
+いろいろなものに手を出した結果より好奇心が旺盛になった。
+
+インフラ作ったり、コードリファクタしたりしてどっぷりコードに浸かった感じがした。
+
+By trying this challenge, I became able to be Full of curiosity about tech.
+
+today, I wrote a code about infrastructure, front.
+
+rarejob.com/englishlab/other/20201214_tofu/
+
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
