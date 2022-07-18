@@ -544,6 +544,15 @@ today, I wrote a code about infrastructure, front.
 
 rarejob.com/englishlab/other/20201214_tofu/
 
+## 2022/07/18
+### 今日の進捗
+github page
+* create next page
+
+### 思ったこと
+ページ作成した。Chakra UIはちょっとおもしろそうな感じがする。
+
+I created a page with next.js. I thought that Chakra UI is interesting. 
 
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
