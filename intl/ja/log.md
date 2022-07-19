@@ -554,6 +554,15 @@ github page
 
 I created a page with next.js. I thought that Chakra UI is interesting. 
 
+## 2022/07/19
+### 今日の進捗
+day38: fix ui with Chakra ui.
+
+### 思ったこと
+muiもちゃんと触っているわけじゃないけどchakra ui すごいいい感じ。
+
+I cannot compare Chakra UI to MUI, but I thought that it is good.
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
