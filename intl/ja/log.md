@@ -563,6 +563,16 @@ muiもちゃんと触っているわけじゃないけどchakra ui すごいい�
 
 I cannot compare Chakra UI to MUI, but I thought that it is good.
 
+## 2022/07/20
+### 今日の進捗
+day39: UI Framework replace complete.  MUI to Chakra UI.
+
+### 思ったこと
+UI 進化したなぁ。
+
+my UI implementation is improving.
+
+
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
