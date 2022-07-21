@@ -572,6 +572,21 @@ UI 進化したなぁ。
 
 my UI implementation is improving.
 
+## 2022/07/21
+### 今日の進捗
+day40: draft gallery module.
+* add shareable val in board
+* if isShareable is true, post to gallery.
+
+### 思ったこと
+
+コーディングの速度上がってない?
+
+新しい課題が見当たらないというか、ワクワクせん。。。
+
+I look like my cording sped up.
+
+I cannot find a new issue in the application Or say I am not excited about it.
 
 [//]: # (## 日付)
 [//]: # (### 今日の進捗)
