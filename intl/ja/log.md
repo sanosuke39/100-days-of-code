@@ -588,6 +588,18 @@ I look like my cording sped up.
 
 I cannot find a new issue in the application Or say I am not excited about it.
 
+## 2022/07/22
+* day41: if the board's isShareable is true, can watch it at gallery view.
+
+### 思ったこと
+
+ざっくりとシェアシステム2日で作ってしまった。
+
+他に何を課題にするべきだろうか？
+
+I have created the Gallery system for about 2 days.
+
+What do I create in it? 
+
 [//]: # (## 日付)
-[//]: # (### 今日の進捗)
 [//]: # (### 思ったこと)
