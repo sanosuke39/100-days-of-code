@@ -601,5 +601,16 @@ I have created the Gallery system for about 2 days.
 
 What do I create in it? 
 
+## 2022/07/23
+* specifies database URL in Firebase config file.
+### 思ったこと
+疲れていてちゃんとかけなかった。
+
+明日頑張る。
+
+I couldn't write a code because I was tired.
+
+I retry it tomorrow.
+
 [//]: # (## 日付)
 [//]: # (### 思ったこと)
