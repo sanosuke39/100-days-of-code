@@ -612,5 +612,18 @@ I couldn't write a code because I was tired.
 
 I retry it tomorrow.
 
+## 2022/07/24
+* rewrite vim config with lua
+
+### 思ったこと
+
+久々にコンフィグ書いたり別のことしてみて、リフレッシュできた。
+
+これもまた楽しかった。
+
+It's been a while since I wrote a config or did something else that refreshed me.
+                                             
+It was fun too.    
+
 [//]: # (## 日付)
 [//]: # (### 思ったこと)
