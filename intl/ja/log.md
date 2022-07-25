@@ -625,5 +625,14 @@ It's been a while since I wrote a config or did something else that refreshed me
                                              
 It was fun too.    
 
+## 2022/07/25
+* fix link
+
+### 思ったこと
+結構UI周りを考えるのって得意じゃないなと思った。
+
+やってもらってもいいかもなって思った。
+
+
 [//]: # (## 日付)
 [//]: # (### 思ったこと)
