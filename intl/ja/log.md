@@ -634,5 +634,18 @@ It was fun too.
 やってもらってもいいかもなって思った。
 
 
+## 2022/07/26
+* day45 create header with tailwind css
+
+### 思ったこと
+tailwind css なめてた。ちゃんと勉強せんと使いこなせない。
+
+これやるぐらいならちゃんとプロダクト完成させるところまで持っていったほうが良さそう。
+
+I was belittling Tailwind CSS.
+I realized that I need to spend time mastering it.
+completing the product is more valuable than it.
+
+
 [//]: # (## 日付)
 [//]: # (### 思ったこと)
