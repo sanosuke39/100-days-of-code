@@ -647,5 +647,18 @@ I realized that I need to spend time mastering it.
 completing the product is more valuable than it.
 
 
+## 2022/07/27
+### 思ったこと
+すんなりfixできた。
+
+Functionsお金が必要だって知らなかった。いくら必要化確認して、対応したい。
+
+I resolved the problem that is easy.
+
+there is a need to pay if using Cloud Functions. 
+I didn't know it.
+
+Today, I'll deal with it.
+
 [//]: # (## 日付)
 [//]: # (### 思ったこと)
