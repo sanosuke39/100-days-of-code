@@ -648,6 +648,7 @@ completing the product is more valuable than it.
 
 
 ## 2022/07/27
+* add all credential
 ### 思ったこと
 すんなりfixできた。
 
