@@ -661,5 +661,35 @@ I didn't know it.
 
 Today, I'll deal with it.
 
+## 2022/07/28
+### 学んだこと
+* フロントエンドのテスト手法
+    * テストがソフトウェアの使用方法に似ているほど、信頼性が高まります。
+* 各種テスト手法のメリットデメリット
+* Reactの推奨されているテストツール
+* jestを使ったテストの記述方法
+* testing-libraryを使ったテストの記述方法
+
+### 思ったこと
+フロントエンドのテストについての知識がまったくないので、何を書いていいのかわからなかった。
+
+とりあえず調べることからはじめました。
+
+https://zenn.dev/t_keshi/articles/react-test-rule
+https://ja.reactjs.org/docs/testing.html
+
+ロジックに関するユニットテストはバックエンドでも共通ですが、 コンポーネントのテストは初めてなので理解するのに苦戦しました。
+
+I couldn't write a test code because I don't have knowledge about tests on FrontEnd.
+
+For now, I started to research it.
+
+First, I started to investigate for tests on FrontEnd.
+
+Understanding A Unit test was easy because I already know the backend test.
+
+but understanding a component test is hard.
+
 [//]: # (## 日付)
+[//]: # (### 学んだこと)
 [//]: # (### 思ったこと)
