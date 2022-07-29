@@ -690,6 +690,24 @@ Understanding A Unit test was easy because I already know the backend test.
 
 but understanding a component test is hard.
 
+## 2022/07/29
+### 学んだこと
+* コンポーネントテストの書き方
+  * react router がある場合のテストの書き方
+* テストの有効性
+  * 自分のJSXの書き方の悪さに気づけた
+  * テストしやすい形に修正できた。
+
+### 思ったこと
+
+テストでエラーが出ることで自分の悪い書き方を改善できてやはり有用だった。
+
+コンポーネントの共通化と修正によりテストしやすいコンポーネント作れた。
+
+when a test happened error, I could realize the bad part of my code.
+
+testable of components was up because of user form is fixed and commonization.
+
 [//]: # (## 日付)
 [//]: # (### 学んだこと)
 [//]: # (### 思ったこと)
