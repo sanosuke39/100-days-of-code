@@ -708,6 +708,33 @@ when a test happened error, I could realize the bad part of my code.
 
 testable of components was up because of user form is fixed and commonization.
 
+## 2022/07/30
+### 学んだこと
+* テスト：https://ja.reactjs.org/docs/testing.html
+  * コンポーネントツリーのレンダー をシンプルなテスト環境で行い、その結果を検証する
+    * コンポーネントをレンダリングして、検証する
+    * モジュールのモック
+      * テストにとって本質的ではないモジュールに依存している場合に有用。
+      * 方法：https://jestjs.io/docs/manual-mocks
+    * ダミーデータ：https://ja.reactjs.org/docs/testing-recipes.html#data-fetching
+  * E2Eテスト：アプリケーション全体の動作 をブラウザ同等の環境で検証する（end-to-end テストとして知られる）
+    * リグレッションを防ぐのに有効 
+    * テストは長いワークフロー、特にあなたの業務にとってとても重要なワークフロー（例えば支払いやサインアップ）をテストするのに有用です。
+    * しかし実行速度に関しては考える必要がある
+    * こちらではモックではなく本物のAPIエンドポイントを使うほうがいいだろう。
+      * firebaseの場合はエミュレーターでもいいのでは？コード変わらないし。
+* テストのTips
+  * https://ja.reactjs.org/docs/testing-recipes.html
+
+### 思ったこと
+テストの書きどころについて勉強した。
+
+Checkoutなどの処理はE2Eテストできる場所だと思うので頑張る。
+
+I studied where and what to write a test.
+
+The checkout process of a website is appropriate what e2e testing.
+
 [//]: # (## 日付)
 [//]: # (### 学んだこと)
 [//]: # (### 思ったこと)
