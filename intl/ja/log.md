@@ -735,6 +735,15 @@ I studied where and what to write a test.
 
 The checkout process of a website is appropriate what e2e testing.
 
+## 2022/07/31
+### 学んだこと
+* cypress を使ったe2eテストの書き方
+
+### 思ったこと
+e2eテストは普通のテストと考えることがちょっと違う
+
+e2e test is different about thinking than a unit test.
+
 [//]: # (## 日付)
 [//]: # (### 学んだこと)
 [//]: # (### 思ったこと)
