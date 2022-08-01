@@ -744,6 +744,15 @@ e2eテストは普通のテストと考えることがちょっと違う
 
 e2e test is different about thinking than a unit test.
 
+## 2022/08/01
+### 学んだこと
+* cypress純正ではiframeに対応していないことがわかった。
+
+### 思ったこと
+iframeを利用しているので、テスト方法がだいぶきつい。
+
+e2e test is hard because Stripe's payment system is implemented with a iframe.
+
 [//]: # (## 日付)
 [//]: # (### 学んだこと)
 [//]: # (### 思ったこと)
