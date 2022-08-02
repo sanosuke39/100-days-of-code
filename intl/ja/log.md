@@ -753,6 +753,14 @@ iframeを利用しているので、テスト方法がだいぶきつい。
 
 e2e test is hard because Stripe's payment system is implemented with a iframe.
 
+## 2022/08/02
+### 学んだこと
+* iframeを内包した場合のテストの書き方
+### 思ったこと
+疲れた。
+
+I'm tired.
+
 [//]: # (## 日付)
 [//]: # (### 学んだこと)
 [//]: # (### 思ったこと)
