@@ -761,6 +761,15 @@ e2e test is hard because Stripe's payment system is implemented with a iframe.
 
 I'm tired.
 
+## 2022/08/03
+### 学んだこと
+* iframeのテストについて
+* cypressの各関数について
+### 思ったこと
+iframeのinput終わった。やった。
+
+test of iframe is done. yes
+
 [//]: # (## 日付)
 [//]: # (### 学んだこと)
 [//]: # (### 思ったこと)
