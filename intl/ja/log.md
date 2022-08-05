@@ -783,6 +783,19 @@ test of iframe is done. yes
 
 Writing Rust code is fun.
 
+## 2022/08/05
+### 学んだこと
+* rustのポインタ
+  * https://qiita.com/Kogia_sima/items/88920a2a14448ef4dbe3
+* rustの文字列とファイル操作
+
+### 思ったこと
+ポインタ関連はやはりむずい。
+
+けど学ぶことがあるのはいい。
+
+React周りは題材を探さないでできる学ぶ題材としては頭打ち臭い。
+
 [//]: # (## 日付)
 [//]: # (### 学んだこと)
 [//]: # (### 思ったこと)
