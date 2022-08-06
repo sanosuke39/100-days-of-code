@@ -796,6 +796,15 @@ Writing Rust code is fun.
 
 React周りは題材を探さないでできる学ぶ題材としては頭打ち臭い。
 
+## 2022/08/06
+### 学んだこと
+* Firestore のアクセスルール記載方法
+* Firestoreのアクセスコントロール
+### 思ったこと
+アクセスコントロールが思ったよりシンプルでとっつきやすかった。
+
+access control is easy and simple than expected.
+
 [//]: # (## 日付)
 [//]: # (### 学んだこと)
 [//]: # (### 思ったこと)
