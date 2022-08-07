@@ -805,6 +805,14 @@ React周りは題材を探さないでできる学ぶ題材としては頭打ち
 
 access control is easy and simple than expected.
 
+## 2022/08/07
+### 学んだこと
+* 特になし
+### 思ったこと
+何も考えずに適切にコードを直していく作業に楽しみを感じる。
+
+I feel fun that no thinking and fixing code.
+
 [//]: # (## 日付)
 [//]: # (### 学んだこと)
 [//]: # (### 思ったこと)
