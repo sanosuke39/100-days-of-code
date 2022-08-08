@@ -813,6 +813,14 @@ access control is easy and simple than expected.
 
 I feel fun that no thinking and fixing code.
 
+## 2022/08/08
+### 学んだこと
+* Webブラウザに最適化しすぎるとスマホで扱いづらい
+### 思ったこと
+スマホに対応することがいかに大切かを感じた。
+
+I feel important that the web app's UI adapt to smartphones.
+
 [//]: # (## 日付)
 [//]: # (### 学んだこと)
 [//]: # (### 思ったこと)
