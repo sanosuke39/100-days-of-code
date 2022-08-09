@@ -821,6 +821,15 @@ I feel fun that no thinking and fixing code.
 
 I feel important that the web app's UI adapt to smartphones.
 
+## 2022/08/09
+### 学んだこと
+canvas は座標の管理をするとレスポンシブ対応がめんどくさい。
+
+### 思ったこと
+Canvasのレスポンシブ対応はざっくりだと結構すぐできるけど、厳密にやろうと思うときつそう。
+
+2つぐらい選択肢を与えていい感じにするんなら結構簡単。
+
 [//]: # (## 日付)
 [//]: # (### 学んだこと)
 [//]: # (### 思ったこと)
