@@ -850,6 +850,11 @@ UIいじって、ユーザーの行動を想像しているときが楽しい。
 
 my fun moment is to imagine a user's action and mess with UI in this web app.
 
+## 2022/08/12
+### 学んだこと
+### 思ったこと
+* 疲れた
+
 [//]: # (## 日付)
 [//]: # (### 学んだこと)
 [//]: # (### 思ったこと)
