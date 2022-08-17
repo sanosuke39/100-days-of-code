@@ -890,6 +890,13 @@ my fun moment is to imagine a user's action and mess with UI in this web app.
 
 ボード購入部分の修正が完了した。heightが100％でできない部分をもうちょっとどうにかしないと。
 
+## 2022/08/17
+### 学んだこと
+### 思ったこと
+UI修正に関して実装がテンプレ化してきて、実装が飽きてきた
+
+I'm tired implementation of UI that I don't get new knowledge. 
+
 [//]: # (## 日付)
 [//]: # (### 学んだこと)
 [//]: # (### 思ったこと)
