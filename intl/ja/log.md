@@ -897,6 +897,13 @@ UI修正に関して実装がテンプレ化してきて、実装が飽きてき
 
 I'm tired implementation of UI that I don't get new knowledge. 
 
+## 2022/08/18
+### 学んだこと
+### 思ったこと
+* 内部でwidthパーセンテージで指定
+* declareってどういう意味？
+* firebase auth の profile 更新用の関数分かれてて扱いがめんどくさい。
+
 [//]: # (## 日付)
 [//]: # (### 学んだこと)
 [//]: # (### 思ったこと)
