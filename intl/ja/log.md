@@ -904,6 +904,8 @@ I'm tired implementation of UI that I don't get new knowledge.
 * declareってどういう意味？
 * firebase auth の profile 更新用の関数分かれてて扱いがめんどくさい。
 
-[//]: # (## 日付)
-[//]: # (### 学んだこと)
-[//]: # (### 思ったこと)
+## 2022/08/19
+### 学んだこと
+### 思ったこと
+* input file と refの使い方を学んだ
+* ts上でrefを利用するとどのような型で取り扱ったらいいかわからない
