@@ -925,3 +925,7 @@ I'm tired implementation of UI that I don't get new knowledge.
 ## 2022/08/23 day73
 * 統計をやった
 * 説明自体は分かり易いがサンプルコードとデータの整合性が取れてないので、進みが悪い
+
+## 2022/08/24 day74
+* [原本](https://github.com/gedeck/practical-statistics-for-data-scientists)のデータとコードをもとにして1章は完了した。
+* やっぱりコードと結果が一致してない部分がある.
