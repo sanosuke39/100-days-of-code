@@ -929,3 +929,8 @@ I'm tired implementation of UI that I don't get new knowledge.
 ## 2022/08/24 day74
 * [原本](https://github.com/gedeck/practical-statistics-for-data-scientists)のデータとコードをもとにして1章は完了した。
 * やっぱりコードと結果が一致してない部分がある.
+
+## 2022/08/25 day75
+* program that run in spreadsheet and GAS until now is moving to airflow.
+* As reason, GAS's code is not able to  management. I want to manage in Github.
+
