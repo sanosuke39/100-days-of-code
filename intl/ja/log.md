@@ -934,3 +934,7 @@ I'm tired implementation of UI that I don't get new knowledge.
 * program that run in spreadsheet and GAS until now is moving to airflow.
 * As reason, GAS's code is not able to  management. I want to manage in Github.
 
+## 2022/08/26 day76
+* implement of Oauth 2 authentication is not remember.
+* if end of implementation it, I will write doc about it.
+
