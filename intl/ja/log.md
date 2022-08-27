@@ -938,3 +938,6 @@ I'm tired implementation of UI that I don't get new knowledge.
 * implement of Oauth 2 authentication is not remember.
 * if end of implementation it, I will write doc about it.
 
+## 2022/08/27 day77
+* I am implementing auth process with fitbit API and Python.
+* I found that don't understand about string and ascii when implement code.
