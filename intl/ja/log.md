@@ -941,3 +941,8 @@ I'm tired implementation of UI that I don't get new knowledge.
 ## 2022/08/27 day77
 * I am implementing auth process with fitbit API and Python.
 * I found that don't understand about string and ascii when implement code.
+
+## 2022/08/27 day78
+* I learned statistics that sample and population.
+* I could understand it with comparative ease.
+* I hope It is not the Mt stupid. 
