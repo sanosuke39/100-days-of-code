@@ -942,7 +942,14 @@ I'm tired implementation of UI that I don't get new knowledge.
 * I am implementing auth process with fitbit API and Python.
 * I found that don't understand about string and ascii when implement code.
 
-## 2022/08/27 day78
+## 2022/08/28 day78
 * I learned statistics that sample and population.
 * I could understand it with comparative ease.
 * I hope It is not the Mt stupid. 
+
+## 2022/08/28 day79
+* PKCE周りの対応をできるようにした。
+* ASCIIとSha256って書いてあってurandomが素でどこにあるのかわかんなかった。
+
+## 2022/08/30 day80
+* クライアント周りの実装は一旦完了。もうちょいリファクタと関数分割していこう
