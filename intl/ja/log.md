@@ -963,3 +963,11 @@ I'm tired implementation of UI that I don't get new knowledge.
 * eslint prettier周りを導入。時間があるときにテンプレ作る。
 * Draft.JSとりあえず入れたけど、ちゃんとエディタ系のライブラリ選定するべきだった。
 * やっっている途中でエディタからやらなくても、大枠のレイアウトだけ決めてしまうっていうのもありかもと思った。
+
+## 2022/09/02 day83
+* chakra ui でかんたんにレイアウトを整えられた
+* エディタのリッチスタイリングに対応しないと先に進まない。
+* 結構調査が必要そうな予感。
+* resolving layout was easy by chakra ui. 
+* if resolving editor is not adapt the rich styling, this product is not forward.
+* I will need to spend study about it.
