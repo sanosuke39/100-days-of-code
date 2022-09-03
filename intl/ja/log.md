@@ -971,3 +971,10 @@ I'm tired implementation of UI that I don't get new knowledge.
 * resolving layout was easy by chakra ui. 
 * if resolving editor is not adapt the rich styling, this product is not forward.
 * I will need to spend study about it.
+
+## 2022/09/03 day84
+* ポカミスで一日費やした。。。
+* ちゃんと確認するべきだった
+* I spent 2 days this problem because I neglect confirming the style.
+* I should have confirmed it.
+
