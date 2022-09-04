@@ -978,3 +978,6 @@ I'm tired implementation of UI that I don't get new knowledge.
 * I spent 2 days this problem because I neglect confirming the style.
 * I should have confirmed it.
 
+## 2022/09/04 day85
+* とりあえずアウトライナーっぽくなってきた
+* for now, implement tab module, and it became like an outliner.
