@@ -981,3 +981,7 @@ I'm tired implementation of UI that I don't get new knowledge.
 ## 2022/09/04 day85
 * とりあえずアウトライナーっぽくなってきた
 * for now, implement tab module, and it became like an outliner.
+
+## 2022/09/05 day86
+* 内部実装がよくわかってないから一旦別環境で検証している。
+* I try it at other env in order to focus understanding a editor library
