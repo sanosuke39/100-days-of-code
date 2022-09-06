@@ -985,3 +985,7 @@ I'm tired implementation of UI that I don't get new knowledge.
 ## 2022/09/05 day86
 * 内部実装がよくわかってないから一旦別環境で検証している。
 * I try it at other env in order to focus understanding a editor library
+
+## 2022/09/06 day87
+* 別プロジェクトに切り出したことで、エディタの研究に集中できている
+* I am able to focus researching the editor implementation because created other project.
