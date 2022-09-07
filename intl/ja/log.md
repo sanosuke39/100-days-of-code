@@ -989,3 +989,7 @@ I'm tired implementation of UI that I don't get new knowledge.
 ## 2022/09/06 day87
 * 別プロジェクトに切り出したことで、エディタの研究に集中できている
 * I am able to focus researching the editor implementation because created other project.
+
+## 2022/09/07 day88
+* 実装よりもドキュメントを読む比率が多い
+* Reading Documents time is more than implementation time.
