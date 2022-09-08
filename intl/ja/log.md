@@ -993,3 +993,9 @@ I'm tired implementation of UI that I don't get new knowledge.
 ## 2022/09/07 day88
 * 実装よりもドキュメントを読む比率が多い
 * Reading Documents time is more than implementation time.
+
+## 2022/09/08 day89
+* カスタムブロックコンポーネントの実装について学んだ。
+* これでテンプレート機能の実装ができそう。
+* I learned the implement of custom block components.
+* I think that I be able to implement function of template.
