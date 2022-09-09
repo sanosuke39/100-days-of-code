@@ -999,3 +999,7 @@ I'm tired implementation of UI that I don't get new knowledge.
 * これでテンプレート機能の実装ができそう。
 * I learned the implement of custom block components.
 * I think that I be able to implement function of template.
+
+## 2022/09/09 day90
+* テンプレートの実装はできたがリストを内包した表現はできていない。
+* ここを変える必要がある
