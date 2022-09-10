@@ -1003,3 +1003,9 @@ I'm tired implementation of UI that I don't get new knowledge.
 ## 2022/09/09 day90
 * テンプレートの実装はできたがリストを内包した表現はできていない。
 * ここを変える必要がある
+
+## 2022/09/10 day91
+* インラインとブロックの違いについてわかってない。
+* ここを理解するともうちょっと実装の幅が広がる気がする。
+* I don't understand different of inline and block.
+* when I will understand it, I think that my variation of implement is increased.
