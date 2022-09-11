@@ -1009,3 +1009,6 @@ I'm tired implementation of UI that I don't get new knowledge.
 * ここを理解するともうちょっと実装の幅が広がる気がする。
 * I don't understand different of inline and block.
 * when I will understand it, I think that my variation of implement is increased.
+
+## 2022/09/11 day92
+* dotfilesを効率的にインストールするためにMakefileを作った
