@@ -1012,3 +1012,8 @@ I'm tired implementation of UI that I don't get new knowledge.
 
 ## 2022/09/11 day92
 * dotfilesを効率的にインストールするためにMakefileを作った
+
+## 2022/09/13 day93
+* 一日空いた。
+* Rustで型について勉強した
+* まずデータ構造に関しての操作を勉強した
