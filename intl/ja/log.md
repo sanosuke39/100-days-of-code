@@ -1021,3 +1021,6 @@ I'm tired implementation of UI that I don't get new knowledge.
 ## 2022/09/14 day94
 * データブロック周りの読書量が１時間で終わらないので一旦統計やっている。
 * 現状は統計実験と有意性検定周りを学んでいる
+
+## 2022/09/15 day95
+* P値や複数の検定方法について学んだ
