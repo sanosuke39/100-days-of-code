@@ -1024,3 +1024,6 @@ I'm tired implementation of UI that I don't get new knowledge.
 
 ## 2022/09/15 day95
 * P値や複数の検定方法について学んだ
+
+## 2022/09/15 day96
+* 統計学の本はある程度ユースケースを意識して書いてあるので理解が深まりやすい。
