@@ -1030,3 +1030,6 @@ I'm tired implementation of UI that I don't get new knowledge.
 
 ## 2022/09/17 day97
 * 回帰と予測に入った。
+
+## 2022/09/18 day98
+* 回帰周りに関して学んでいる。ある程度学んだので振り返りしたほうが定着しやすいかも。
