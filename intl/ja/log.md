@@ -1069,3 +1069,6 @@ I'm tired implementation of UI that I don't get new knowledge.
 - 対象の文字列を入れたらリストにするようにする実装に関して考えた
 - キーバインドやカスタムコマンドによる修正をする必要がありそうなので、ちょっと勉強していた。
 - 普通にCSSインポートしてなくてミスってた
+
+## 2022/09/27 day107
+- #templateのパース関数はかけそうだがEditorStateへの反映がムズい
