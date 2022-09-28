@@ -1072,3 +1072,13 @@ I'm tired implementation of UI that I don't get new knowledge.
 
 ## 2022/09/27 day107
 - #templateのパース関数はかけそうだがEditorStateへの反映がムズい
+
+## 2022/09/28 day108
+- #templateのパース関数はかけそうだがEditorStateへの反映がムズい
+  - Decoratorから新たなブロックを作成して、追加する処理が必要 
+  - EditorStateへの反映が必要？ 
+- thisの罠にハマった
+  - https://mokake.hatenablog.com/entry/2018/07/07/181814
+  - https://github.com/Microsoft/TypeScript/wiki/'this'-in-TypeScript
+- LogSeqはオープンソースなのでコードリーディングしたほうがいい？ 
+- １時間以上より１時間でおしまいと考えたほうが集中できる？
