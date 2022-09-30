@@ -1082,3 +1082,9 @@ I'm tired implementation of UI that I don't get new knowledge.
   - https://github.com/Microsoft/TypeScript/wiki/'this'-in-TypeScript
 - LogSeqはオープンソースなのでコードリーディングしたほうがいい？ 
 - １時間以上より１時間でおしまいと考えたほうが集中できる？
+- 
+## 2022/09/30 day109
+- WSL2＆Windowsの環境構築
+- curl関連のコマンドがうまく動かなかった
+  - https://qiita.com/v2okimochi/items/607f8d0f6eb7541ae553
+  - https://github.com/Schniz/fnm/issues/520
