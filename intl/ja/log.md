@@ -1088,3 +1088,7 @@ I'm tired implementation of UI that I don't get new knowledge.
 - curl関連のコマンドがうまく動かなかった
   - https://qiita.com/v2okimochi/items/607f8d0f6eb7541ae553
   - https://github.com/Schniz/fnm/issues/520
+
+## 2022/10/01 day110
+- 解決したい課題について考えていた
+- やっぱり考えているほうが前に進んでいる感じがあっていい
